@@ -1,0 +1,8 @@
+Cloud4All User Profile Editor
+
+A simple script, which reads the json based user profile and makes it editable
+by means of a formular on a HTML page. It's written in PHP and was tested under
+PHP5 and the web server LightTPD.
+
+Todo: The script cannot parse the nested condition at the moment. So the saving
+of the speech-rate does not work.
